@@ -45,7 +45,7 @@
     "joi": "^13.3.0",
     "jsonwebtoken": "^8.2.1",
     "method-override": "^2.3.10",
-    "mongoose": "^5.7.8",
+    "mongoose": "^5.7.9",
     "morgan": "^1.9.1",
     "ng2-dragula": "^1.5.0",
     "nodemon": "^1.19.4",
@@ -59,7 +59,7 @@
     "zone.js": "0.8.26"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.803.17",
+    "@angular-devkit/build-angular": "^0.803.18",
     "@angular/cli": "^6.1.9",
     "@angular/compiler-cli": "^8.2.13",
     "@angular/language-service": "^6.1.9",
