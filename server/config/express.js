@@ -41,7 +41,6 @@ app.use(/^((?!(api)).)*/, (req, res) => {
   res.sendFile(path.join(__dirname, '../../dist/index.html'));
 });
 
-
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
